@@ -2,7 +2,7 @@
 
 This project is an example to get data from [API jsonplaceholder](https://jsonplaceholder.typicode.com/), we can list, edit, and delete items. 
 
-![alt text](https://github.com/Gerarca/AngularJS-NodeJS-TypeScript-MongoDB/raw/main/Frontend/docs/main.png?raw=true)
+![alt text](https://github.com/Gerarca/Reactjs-api-jsonplaceholder/blob/main/docs/list.png?raw=true)
 
 ## Technologies
 
@@ -23,7 +23,7 @@ You may also see any lint errors in the console.
 ### `npm run cy:open`
 
 Launches the test runner in the interactive watch mode.\
-![alt text](https://github.com/Gerarca/AngularJS-NodeJS-TypeScript-MongoDB/raw/main/Frontend/docs/main.png?raw=true)
+![alt text](https://github.com/Gerarca/Reactjs-api-jsonplaceholder/blob/main/docs/cypress.png?raw=true)
 
 
 ### `npm run build`
